@@ -1,0 +1,1 @@
+See <a href="https://community.hortonworks.com/articles/8422/visualize-near-real-time-stock-price-changes-using.html">this</a> article on how to use the files in this repository.
